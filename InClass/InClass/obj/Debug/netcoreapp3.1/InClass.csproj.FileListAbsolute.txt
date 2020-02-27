@@ -1,0 +1,22 @@
+C:\Users\Student2\source\repos\InClass\InClass\bin\Debug\netcoreapp3.1\InClass.exe
+C:\Users\Student2\source\repos\InClass\InClass\bin\Debug\netcoreapp3.1\InClass.deps.json
+C:\Users\Student2\source\repos\InClass\InClass\bin\Debug\netcoreapp3.1\InClass.runtimeconfig.json
+C:\Users\Student2\source\repos\InClass\InClass\bin\Debug\netcoreapp3.1\InClass.runtimeconfig.dev.json
+C:\Users\Student2\source\repos\InClass\InClass\bin\Debug\netcoreapp3.1\InClass.dll
+C:\Users\Student2\source\repos\InClass\InClass\bin\Debug\netcoreapp3.1\InClass.pdb
+C:\Users\Student2\source\repos\InClass\InClass\obj\Debug\netcoreapp3.1\InClass.csprojAssemblyReference.cache
+C:\Users\Student2\source\repos\InClass\InClass\obj\Debug\netcoreapp3.1\InClass.AssemblyInfoInputs.cache
+C:\Users\Student2\source\repos\InClass\InClass\obj\Debug\netcoreapp3.1\InClass.AssemblyInfo.cs
+C:\Users\Student2\source\repos\InClass\InClass\obj\Debug\netcoreapp3.1\InClass.dll
+C:\Users\Student2\source\repos\InClass\InClass\obj\Debug\netcoreapp3.1\InClass.pdb
+C:\Users\Student2\Downloads\output (2) (1)\InClass\InClass\bin\Debug\netcoreapp3.1\InClass.exe
+C:\Users\Student2\Downloads\output (2) (1)\InClass\InClass\bin\Debug\netcoreapp3.1\InClass.deps.json
+C:\Users\Student2\Downloads\output (2) (1)\InClass\InClass\bin\Debug\netcoreapp3.1\InClass.runtimeconfig.json
+C:\Users\Student2\Downloads\output (2) (1)\InClass\InClass\bin\Debug\netcoreapp3.1\InClass.runtimeconfig.dev.json
+C:\Users\Student2\Downloads\output (2) (1)\InClass\InClass\bin\Debug\netcoreapp3.1\InClass.dll
+C:\Users\Student2\Downloads\output (2) (1)\InClass\InClass\bin\Debug\netcoreapp3.1\InClass.pdb
+C:\Users\Student2\Downloads\output (2) (1)\InClass\InClass\obj\Debug\netcoreapp3.1\InClass.csprojAssemblyReference.cache
+C:\Users\Student2\Downloads\output (2) (1)\InClass\InClass\obj\Debug\netcoreapp3.1\InClass.AssemblyInfoInputs.cache
+C:\Users\Student2\Downloads\output (2) (1)\InClass\InClass\obj\Debug\netcoreapp3.1\InClass.AssemblyInfo.cs
+C:\Users\Student2\Downloads\output (2) (1)\InClass\InClass\obj\Debug\netcoreapp3.1\InClass.dll
+C:\Users\Student2\Downloads\output (2) (1)\InClass\InClass\obj\Debug\netcoreapp3.1\InClass.pdb
